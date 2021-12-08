@@ -49,4 +49,4 @@ It is not much time, so we'll structure the timeline in five-day periods (qweeks
 
 https://arxiv.org/abs/2006.05698
 
-Special thanks to [Akkapaka Saikiran](https://github.com/akkapakasaikiran) via [Niraj Mahajan](https://github.com/nirajmahajan), for the document skeleton.
+Special thanks to [Akkapaka Saikiran](https://github.com/akkapakasaikiran) (via [Niraj Mahajan](https://github.com/nirajmahajan)), for the document skeleton.
